@@ -239,7 +239,7 @@ p {
 }
 
 #services-photo1 {
-    background: rgb(0, 0, 0) url('assets/Movies.jpg');
+    background: rgb(0, 0, 0) url('https://th.bing.com/th/id/OIP.yVZ1w7YlGg6y5pxCHIzI-AHaDU?w=325&h=156&c=7&r=0&o=5&pid=1.7');
     height: 200px;
     background-size: cover;
     background-position: center;
@@ -255,7 +255,7 @@ p {
 }
 
 #services-photo2 {
-    background: rgb(0, 0, 0) url('assets/spam.jpg');
+    background: rgb(0, 0, 0) url('https://thumbs.dreamstime.com/b/red-spam-detected-icon-phishing-scam-hacking-concept-cyber-security-concept-alert-message-red-spam-detected-icon-phishing-scam-242696284.jpg');
     height: 200px;
     background-size: cover;
     background-position: center;
@@ -271,7 +271,7 @@ p {
 }
 
 #services-photo3 {
-    background: rgb(0, 0, 0) url('assets/exam.webp');
+    background: rgb(0, 0, 0) url('https://thinkexam.com/blog/wp-content/uploads/2020/08/Introduction-of-Online-Examination-System.png');
     height: 200px;
     background-size: cover;
     background-position: center;
